@@ -1,0 +1,12 @@
+{
+  "name": "bedrock-voice-server",
+  "version": "1.0.0",
+  "description": "Voice server for Minecraft Bedrock radio",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
